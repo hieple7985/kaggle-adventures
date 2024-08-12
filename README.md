@@ -4,6 +4,8 @@
 
 ### Learn
 
+- cert: learn/intro_to_programming.png
+
 ### Competitions
 
 [005 | LMSYS - Chatbot Arena Human Preference Predictions](https://www.kaggle.com/code/solokop/lmsys-chatbot-arena-human-preference-predictions)
